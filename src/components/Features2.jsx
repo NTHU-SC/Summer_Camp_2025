@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
-import feature5 from "../assets/images/2024-sydney-team.jpg";
-import feature6 from "../assets/images/2024-hamburg-team.jpg";
+import feature5 from "../assets/images/HPCAI24-1.jpg";
+import feature6 from "../assets/images/HPCAI24-2.jpg";
 import { CheckArrowIcon } from "../assets/icons/CheckArrowIcon";
 
 export const Features2 = () => (
