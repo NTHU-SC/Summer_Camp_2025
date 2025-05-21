@@ -172,7 +172,7 @@ export const Pricing = () => {
               <div
                 className="inline-block text-center py-2 px-4 w-1/2 rounded-xl rounded-t-xl custom-button-colored font-bold leading-loose mt-16"
               >
-                尚未開始報名
+                5/28 開放報名，期待你的加入
               </div>
             </div>
           </div>
