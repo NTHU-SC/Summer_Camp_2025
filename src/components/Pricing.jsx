@@ -32,7 +32,7 @@ export const Pricing = () => {
   };
 
   const handleButtonClick = () => {
-    window.open('https://scc.nthu.site/Summer_Camp_2025/form/', '_blank');
+    window.open('https://forms.gle/mkg2vmdtAeU7hV4J6', '_blank');
   };
 
   return (
