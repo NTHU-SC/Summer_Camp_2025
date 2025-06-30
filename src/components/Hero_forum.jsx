@@ -39,16 +39,16 @@ export const Hero_forum = () => {
                 transition={{ duration: 0.5, delay: 0.15 }}
               >
                 <div className="flex flex-col gap-2 sm:flex-row mt-14 mb-2 sm:mb-6 justify-center">
-                  <a
+                  {/* <a
                     className="custom-button-colored w-48 sm:w-36 h-10 mr-0 sm:mr-2 lg:mr-4" href="https://forms.gle/mkg2vmdtAeU7hV4J6" target="_blank"
                   >
                     立刻報名！
-                  </a>
-                  {/* <div
+                  </a> */}
+                  <div
                     className="custom-button-colored w-48 sm:w-36 h-10 mr-0 sm:mr-2 lg:mr-4" 
                   >
-                    5/28 開放報名，期待你的加入
-                  </div> */}
+                    報名已截止
+                  </div>
                 </div>
               </motion.div>
 
